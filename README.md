@@ -1,3 +1,3 @@
 # Webpage-portfolio
-first commit with html&amp; css.
+First Side project using html & css.
 
