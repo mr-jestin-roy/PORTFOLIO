@@ -1,3 +1,4 @@
 # Webpage-portfolio
-First Side project using html & css.
+Webpage portfolio structurced on html5 and styled with css3.
+
 
